@@ -1,0 +1,6 @@
+https://socket.datio.live
+wss://stream3.datio.live
+https://webserver.datio.live/ChatApi/webserver/uploader.php
+https://notification.datio.live/NumberRegister
+https://assets.datio.live/ChatApi/assets/default_avatar.png
+https://notification.datio.live/notification
