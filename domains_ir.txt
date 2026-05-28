@@ -1,0 +1,7 @@
+https://socket.tabadolestan.ir
+wss://stream.tabadolestan.ir
+https://webserver.tabadolestan.ir/ChatApi/webserver/uploader.php
+https://notification.tabadolestan.ir/NumberRegister
+https://assets.tabadolestan.ir/ChatApi/assets/default_avatar.png
+https://notification.tabadolestan.ir/notification
+300
