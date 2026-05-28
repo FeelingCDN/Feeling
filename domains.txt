@@ -1,7 +1,7 @@
-https://socket.datio.live
-wss://stream3.datio.live
-https://webserver.datio.live/ChatApi/webserver/uploader.php
-https://notification.datio.live/NumberRegister
-https://assets.datio.live/ChatApi/assets/default_avatar.png
-https://notification.datio.live/notification
+https://socket.tabadolestan.ir
+wss://stream3.tabadolestan.ir
+https://webserver.tabadolestan.ir/ChatApi/webserver/uploader.php
+https://notification.tabadolestan.ir/NumberRegister
+https://assets.tabadolestan.ir/ChatApi/assets/default_avatar.png
+https://notification.tabadolestan.ir/notification
 300
