@@ -5,3 +5,4 @@ https://notification.tabadolestan.ir/NumberRegister
 https://assets.tabadolestan.ir/ChatApi/assets/default_avatar.png
 https://notification.tabadolestan.ir/notification
 300
+true
