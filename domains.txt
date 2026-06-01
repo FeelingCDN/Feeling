@@ -1,8 +1,8 @@
-https://socket.tabadolestan.ir
-wss://stream.tabadolestan.ir
-https://webserver.tabadolestan.ir/ChatApi/webserver/uploader.php
-https://notification.tabadolestan.ir/NumberRegister
-https://assets.tabadolestan.ir/ChatApi/assets/default_avatar.png
-https://notification.tabadolestan.ir/notification
+https://socket.bingochat.live
+wss://stream.bingochat.live
+https://webserver.bingochat.live/ChatApi/webserver/uploader.php
+https://notification.bingochat.live/NumberRegister
+https://assets.bingochat.live/ChatApi/assets/default_avatar.png
+https://notification.bingochat.live/notification
 300
 true
