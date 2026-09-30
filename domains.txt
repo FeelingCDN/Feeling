@@ -1,5 +1,5 @@
-https://socket-direct.tabadolestan.ir
-wss://stream-direct.tabadolestan.ir
+https://direct-socket.tabadolestan.ir
+wss://direct-stream.tabadolestan.ir
 https://webserver.bingochat.live/ChatApi/webserver/uploader.php
 https://notification.bingochat.live/NumberRegister
 https://assets.bingochat.live/ChatApi/assets/default_avatar.png
