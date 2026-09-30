@@ -1,4 +1,4 @@
-https://socket.bingochat.live
+https://direct-socket.tabadolestan.ir
 wss://direct-stream.tabadolestan.ir
 https://webserver.bingochat.live/ChatApi/webserver/uploader.php
 https://notification.bingochat.live/NumberRegister
