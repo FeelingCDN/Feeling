@@ -1,5 +1,5 @@
-https://socket.bingochat.live
-wss://stream.feeling.talk
+https://ipv6-direct-socket.tabadolestan.ir
+wss://ipv6-direct-stream.tabadolestan.ir
 https://webserver.bingochat.live/ChatApi/webserver/uploader.php
 https://notification.bingochat.live/NumberRegister
 https://assets.bingochat.live/ChatApi/assets/default_avatar.png
