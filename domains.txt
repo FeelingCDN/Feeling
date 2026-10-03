@@ -1,5 +1,5 @@
 https://socket.bingochat.live
-wss://stream.feeling.talk
+wss://stream.bingochat.live
 https://webserver.bingochat.live/ChatApi/webserver/uploader.php
 https://notification.bingochat.live/NumberRegister
 https://assets.bingochat.live/ChatApi/assets/default_avatar.png
